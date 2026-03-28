@@ -9,6 +9,6 @@
 Для оценки работы проекта членами жюри и техническими специалистами я готов оперативно предоставить полный доступ к репозиторию по индивидуальному запросу.
 
   * **Ссылка на репозиторий:** [https://github.com/sergazin/xlaw](https://github.com/sergazin/xlaw)
-  * **Для запроса доступа (Telegram):** [@sergazin](https://www.google.com/search?q=https://t.me/sergazin)
+  * **Для запроса доступа (Telegram):** [@sergazin](https://t.me/sergazin)
 
 Благодарю за понимание\!
